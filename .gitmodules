@@ -1,3 +1,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = git@github.com:Joaconte/Fiuba-Memo_1-TP-Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:Joaconte/Fiuba-Memo_1-TP-Backend.git
